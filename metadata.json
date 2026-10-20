@@ -1,0 +1,6 @@
+{
+  "name": "Legado de Fe - Archivo Intergeneracional de Testimonios",
+  "description": "Plataforma comunitaria para preservar testimonios de fe de adultos mayores y conectarlos con las nuevas generaciones mediante audio, video, preguntas y oraciones.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
